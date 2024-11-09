@@ -1,0 +1,4 @@
+digraph "com.fns:warehouse-application-service:jar:1.0-SNAPSHOT" { 
+	"com.fns:warehouse-application-service:jar:1.0-SNAPSHOT" -> "com.fns:warehouse-domain-core:jar:1.0-SNAPSHOT:compile" ; 
+	"com.fns:warehouse-application-service:jar:1.0-SNAPSHOT" -> "com.fns:common-domain:jar:1.0-SNAPSHOT:compile" ; 
+ } 
